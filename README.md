@@ -2,7 +2,7 @@
 Forage job simulation project. 
 
 ## Business Background:
-
+![](https://github.com/itsmearafik/Data_Visualization-TaTa-/blob/main/dashboard.png)
 An online retail store wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
 The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
 
@@ -12,7 +12,8 @@ The leadership is interested in viewing the metrics from both an operations and 
 2. Analyze sales data to provide clear operational and marketing performance metrics.
 3. Identify high-performing regions to guide business expansion and focus on successful areas.
 4. Break down key sales metrics by available demographics (e.g., country) for deeper customer insights.
-
+   
+![](https://github.com/itsmearafik/Data_Visualization-TaTa-/blob/main/salesbycountry.png)
 ## Tools and Methodology
 **Power BI**: For dashboard creation and data visualization.
 
